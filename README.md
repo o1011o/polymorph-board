@@ -1,7 +1,11 @@
 # polymorph-board
 An adjustable split ergo keyboard.
 
-This keyboard is meant to make no compromises when it comes to the particular ergonomics of any given pair of hands. Every column including the thumb cluster can be moved along the x, y, and z axis and rotated about the z axis. The thumb cluster may also be rotated about the x axis and its height adjusted in relation to the finger columns. All that means that you can find your optimally relaxed hand position and set your keyboard to match that exactly. When your hand is perfectly at rest in the home row position every other key feels that much closer. The other stand-out feature of this keyboard is the particular stair-stepping of keys in their key well columns such that when a key is pressed it sits at the exact height of the un-pressed key in the row below it. With an optimized layout like Graphite most same finger bigrams start at a higher row and end on a lower one and that means you can slide from a pressed key to an unpressed one, making those bigrams much faster to type. In addition, this allows the keys to be closer together without running foul of their neighbors and that makes typing upper and lower row keys less taxing.
+This keyboard is meant to make no compromises when it comes to the particular ergonomics of any given pair of hands. Every column including the thumb cluster can be moved along the x, y, and z axis and rotated about the z axis. The thumb cluster may also be rotated about the x axis and its height adjusted in relation to the finger columns. All that means that you can find your optimally relaxed hand position and set your keyboard to match that exactly. When your hand is perfectly at rest in the home row position every other key feels that much closer. 
+
+The other stand-out feature of this keyboard is the particular stair-stepping of keys in their key well columns such that when a key is pressed it sits at the exact height of the un-pressed key in the row below it. With an optimized layout like Graphite most same finger bigrams start at a higher row and end on a lower one and that means you can slide from a pressed key to an unpressed one, making those bigrams much faster to type. In addition, this allows the keys to be closer together without running foul of their neighbors and that makes typing upper and lower row keys less taxing.
+
+A wider finger base plate can be used if you want more than four columns.
 ![IMG_20250110_203608437](https://github.com/user-attachments/assets/b5d258c4-efec-4ebe-bb8e-207b00deffc2)
 
 The adjustment screws.
@@ -27,5 +31,5 @@ Kailh hot swap sockets are glued in and diodes are soldered along the column ins
 Headers from the microcontroller extend down into the body of the board where jumpers can be plugged in. This is a satisfactory solution but the whole microcontroller housing may be redesigned if a better idea occurs to me. The pins from the trrs connector have short lead wires soldered to them and then those wires soldered onto jumpers that plug into the controller. The controller can be removed without desoldering anything in case you ever want to recover it.
 ![IMG_20250110_205011286](https://github.com/user-attachments/assets/1c6c2d5f-0c6e-440f-a349-82f9d075dbe6)
 
-A pair of smallrig arms hold the halves in place and their jaws grab onto this piece to help disribute their clamping pressure and keep them from sliding around.
+A pair of smallrig arms hold the halves in place and their jaws grab onto this piece to help disribute their clamping pressure and keep them from sliding around. This is meant to grab onto the edge of a desk.
 ![IMG_20250110_205309704](https://github.com/user-attachments/assets/283e6bdc-72c7-4f4e-a22c-619152686ff9)
