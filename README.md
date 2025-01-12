@@ -31,5 +31,17 @@ Kailh hot swap sockets are glued in and diodes are soldered along the column ins
 Headers from the microcontroller extend down into the body of the board where jumpers can be plugged in. This is a satisfactory solution but the whole microcontroller housing may be redesigned if a better idea occurs to me. The pins from the trrs connector have short lead wires soldered to them and then those wires soldered onto jumpers that plug into the controller. The controller can be removed without desoldering anything in case you ever want to recover it.
 ![IMG_20250110_205011286](https://github.com/user-attachments/assets/1c6c2d5f-0c6e-440f-a349-82f9d075dbe6)
 
-A pair of smallrig arms hold the halves in place and their jaws grab onto this piece to help disribute their clamping pressure and keep them from sliding around. This is meant to grab onto the edge of a desk.
+A pair of smallrig arms hold the halves in place and their jaws grab onto this piece to help distribute their clamping pressure and keep them from sliding around. This is meant to grab onto the edge of a desk.
 ![IMG_20250110_205309704](https://github.com/user-attachments/assets/283e6bdc-72c7-4f4e-a22c-619152686ff9)
+
+Bill of materials :
+* 32x key switches, mx cherry style
+* 32x kailh hot swap sockets
+* ??x #4 machine screws, ?? long
+* ??x nuts
+* ??x washers
+
+Known issues / TODOs :
+* thumb bottom isn't beveled on its inside surface the way the fingers are. A simple bevel doesn't work there, that's why. It's necessary to do a subtractive pipe there to blend into the top piece and I ran out of patience. Not actually that much work though.
+* microcontroller and trrs socket housing is okay but not as elegant as I'd like. Revisions should make the usb port more accessible and allow the lid to come off without unplugging the trrs cable.
+* hot swap sockets work okay glued in but are likely not robust enough to reliably handle repeated key switch changes. A version was made with spring clips holding them in but it was a pain to print. Another mechanical means of fixing the sockets in place might be nice.
