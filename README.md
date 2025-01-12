@@ -37,11 +37,20 @@ A pair of smallrig arms hold the halves in place and their jaws grab onto this p
 Bill of materials :
 * 32x key switches, mx cherry style
 * 32x kailh hot swap sockets
-* ??x #4 machine screws, ?? long
-* ??x nuts
-* ??x washers
+* 56x #4 machine screws, ?? long
+* 56x #4 nuts
+* 56x #4 washers
+* ??x diodes
+* ??ga stranded copper wire (silicone sleeved for maximum flex will reduce strain or solder joints but isn't strictly necessary)
+* 2x raspberry pi pico microcontroller
+* 2x trrs socket
+* ~?? grams of filament
 
 Known issues / TODOs :
 * thumb bottom isn't beveled on its inside surface the way the fingers are. A simple bevel doesn't work there, that's why. It's necessary to do a subtractive pipe there to blend into the top piece and I ran out of patience. Not actually that much work though.
 * microcontroller and trrs socket housing is okay but not as elegant as I'd like. Revisions should make the usb port more accessible and allow the lid to come off without unplugging the trrs cable.
 * hot swap sockets work okay glued in but are likely not robust enough to reliably handle repeated key switch changes. A version was made with spring clips holding them in but it was a pain to print. Another mechanical means of fixing the sockets in place might be nice.
+* ---
+* finish bill of materials including links and model numbers
+* upload firmware
+* create build guide
