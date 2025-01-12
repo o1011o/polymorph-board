@@ -40,8 +40,8 @@ Bill of materials :
 * 56x #4 machine screws, ?? long
 * 56x #4 nuts
 * 56x #4 washers
-* ??x diodes
-* ??ga stranded copper wire (silicone sleeved for maximum flex will reduce strain or solder joints but isn't strictly necessary)
+* 20x diodes
+* ~20ga stranded copper wire (silicone sleeved for maximum flex will reduce strain on solder joints but isn't strictly necessary)
 * 2x raspberry pi pico microcontroller
 * 2x trrs socket
 * ~?? grams of filament
@@ -55,3 +55,4 @@ Known issues / TODOs :
 * finish bill of materials including links and model numbers
 * upload firmware
 * create build guide
+* create finger base plates for 5 and 6 column versions
